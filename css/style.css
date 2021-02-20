@@ -1,0 +1,13 @@
+:root {
+  --colorprincipal: #9ed9e3;
+  --colorsecudario: #59a17e;
+}
+
+body {
+  background-color:  var(--colorprincipal);
+}
+
+form {
+  background-color: var(--colorsecudario);
+  border-radius: 15px;
+}
